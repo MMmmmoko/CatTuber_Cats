@@ -1,0 +1,25 @@
+# CatTuber_Cats
+这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何自定义CatTuber模型。
+[English](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_EN.md)
+
+## 模型许可
+此库中模型所有权属于CatTuber团队。
+此库中模型或从.cmo3文件中拆下的模型零件不可在CatTuber软件以外使用（即限制软件，不可将CatTuber示范模型或其零件用于其他支持Live2D的软件中）。
+在以下条件下，CatTuber用户可以将示范模型中的零件（如头、手、身体、尾巴等）组合进自己的模型中，并可将由此完成的模型用作自己的商业目的：
+制作的模型不违反当地法律法规；
+除非得到允许，只能在CatTuber中使用此模型;
+为他人制作模型的情况下，明确告知对方：模型中有重复使用的组件、不可用于CatTuber以外软件；
+为他人提供工程文件（.cmo3文件）的情况下，明确告知对方：工程文件中有不可用于CatTuber以外软件的内容；
+
+## 文档
+我们默认读者了解Live2D建模，如果你不会Live2D建模，请先花时间了解Live2D建模的基本知识。
+[模型在CatTuber软件中是如何显示的？](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/docs/%E6%A8%A1%E5%9E%8B%E5%9C%A8CatTuber%E8%BD%AF%E4%BB%B6%E4%B8%AD%E6%98%AF%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E7%9A%84.md)
+[“模型标准”是什么？](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/docs/%E6%A8%A1%E5%9E%8B%E6%A0%87%E5%87%86%E6%98%AF%E4%BB%80%E4%B9%88.md)
+[自定义角色模型](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A7%92%E8%89%B2%E6%A8%A1%E5%9E%8B.md)
+[自定义桌子模型](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A1%8C%E5%AD%90%E6%A8%A1%E5%9E%8B.md)
+[自定义手持物模型](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%89%8B%E6%8C%81%E7%89%A9%E6%A8%A1%E5%9E%8B.md)
+[自定义KPS模型](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89KPS%E6%A8%A1%E5%9E%8B.md)
+
+## 模型投稿
+短期内CatTuber没有创意工坊功能，如果你有模型希望通过CatTuber分享给大家，欢迎联系zh4017@foxmail.com。
+注：会有一定的质量要求，并且你需要拥有模型权利（可以使用此库中示范模型的零件，但是请保证你的模型形象为原创或者得到了模型形象所有者的允许）。

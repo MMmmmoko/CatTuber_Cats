@@ -1,6 +1,7 @@
 # CatTuber_Cats
 这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何自定义CatTuber模型。
-* [English](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_EN.md)
+
+[English](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_EN.md)
 
 ## 模型许可
 此库中模型所有权属于CatTuber团队。
@@ -22,4 +23,5 @@
 
 ## 模型投稿
 短期内CatTuber没有创意工坊功能，如果你有模型希望通过CatTuber分享给大家，欢迎联系zh4017@foxmail.com。
+
 注：会有一定的质量要求，并且你需要拥有模型权利（可以使用此库中示范模型的零件，但是请保证你的模型形象为原创或者得到了模型形象所有者的允许）。

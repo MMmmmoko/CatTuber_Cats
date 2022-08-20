@@ -1,5 +1,5 @@
 # CatTuber_Cats
-这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何自定义CatTuber模型。
+这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何制作CatTuber模型。
 
 [English](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_EN.md)
 

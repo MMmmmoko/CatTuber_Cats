@@ -1,3 +1,5 @@
+### 请注意，因为软件最近有个重要更新，这个库的内容还没弄完就失效了，请等待这段文字消失时再参考建模
+
 # CatTuber_Cats
 这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何制作CatTuber模型。
 

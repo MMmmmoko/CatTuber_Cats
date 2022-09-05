@@ -13,6 +13,6 @@ CatTuber的画面由多个模型组成，想让各个模型的位置都在预期
 
 不同模型中绘制顺序相同的图层的上下关系将由CatTuber内容设置页面中模型的上下关系决定。
 
-![imgs/img2_1.png](imgs/img2_1.png)
+![imgs/img2_1.png](imgs/img1_2.png)
 
-![imgs/img2_2.gif](imgs/img2_2.gif)
+![imgs/img2_2.gif](imgs/img1_3.gif)

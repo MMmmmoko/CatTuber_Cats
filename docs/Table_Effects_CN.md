@@ -47,7 +47,7 @@
 | [pulse](#pulse) | 大概这个样子___/\\_____ |
 | [pulse_add](#pulse_add) | 如上述，但是重复触发的时候数值会叠加 |
 | [sawtooth](#sawtooth) | 大概这个样子___\|\\_____ |
-| [sawtooth](#sawtooth_add) | 如上述，但是重复触发的时候数值会叠加 |
+| [sawtooth_add](#sawtooth_add) | 如上述，但是重复触发的时候数值会叠加 |
 | [incremental](#incremental) | 整数递增，每次触发时特效参数值+1，超过极值时会归零 |
 | [random_integer](#random_integer) | 每次触发时，特效参数会变成范围内随机整数 |
 | [random_range](#random_range) | 每次触发时，特效参数会变成范围内随机值  |

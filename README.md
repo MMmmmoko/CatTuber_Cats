@@ -1,4 +1,3 @@
-### 请注意，因为软件最近有个重要更新，这个库的内容还没弄完就失效了，请等待这段文字消失时再参考建模
 
 # CatTuber_Cats
 这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何制作CatTuber模型。
@@ -18,12 +17,12 @@
 
 ## 文档
 我们默认读者了解Live2D建模，如果你不会Live2D建模，请先花时间了解Live2D建模的基本知识。
-* [模型在CatTuber软件中是如何显示的？](docs/%E6%A8%A1%E5%9E%8B%E5%9C%A8CatTuber%E8%BD%AF%E4%BB%B6%E4%B8%AD%E6%98%AF%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E7%9A%84.md)
-* [“模型标准”是什么？](docs/%E6%A8%A1%E5%9E%8B%E6%A0%87%E5%87%86%E6%98%AF%E4%BB%80%E4%B9%88.md)
-* [自定义角色模型](docs/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A7%92%E8%89%B2%E6%A8%A1%E5%9E%8B.md)
-* [自定义桌子模型](docs/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A1%8C%E5%AD%90%E6%A8%A1%E5%9E%8B.md)
-* [自定义手持物模型](docs/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%89%8B%E6%8C%81%E7%89%A9%E6%A8%A1%E5%9E%8B.md)
-* [自定义KPS模型](docs/%E8%87%AA%E5%AE%9A%E4%B9%89KPS%E6%A8%A1%E5%9E%8B.md)
+* [模型在CatTuber软件中是如何显示的？](docs/1_模型在CatTuber软件中是如何显示的.md)
+* [“模型标准”是什么？](docs/2_模型标准是什么.md)
+* [自定义角色模型](docs/3_自定义角色模型.md)
+* [自定义桌子模型](docs/4_自定义桌子模型.md)
+* [自定义手持物模型](docs/5_自定义手持物模型.md)
+* [自定义KPS模型](docs/6_自定义KPS模型.md)
 
 ## 模型投稿
 短期内CatTuber没有创意工坊功能，如果你有模型希望通过CatTuber分享给大家，欢迎联系zh4017@foxmail.com。

@@ -60,7 +60,7 @@ KPS模型属于HUD，一般将各图层绘制顺序设置为1000
 
 "effects"是个数组，里面可以放如多个effct效果，示例中只有一个效果，表示每当有按键按下时ID为CAT_KPS_SCALE的参数数值将突变为1，然后再0.2秒的时间里降低到0。它可以实现按键时KPS模型跃动的效果。
 
-有关"effects"的详细信息请参考[# 参数特效"effects"](Table_Effects_CN.md)。
+有关"effects"的详细信息请参考[参数特效"effects"](Table_Effects_CN.md)。
 
 ### 导入CatTuber中
 

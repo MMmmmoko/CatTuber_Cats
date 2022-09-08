@@ -1,0 +1,28 @@
+GUID,类型,ID,名称,组,最小值,默认值,最大值,循环,描述
+,PARAMETER_GROUP,CAT_CHARACTERBASE,基础参数,,,,,,
+,PARAMETER_GROUP,CAT_HAND,手,,,,,,
+,PARAMETER,ParamAngleX,角度 X,CAT_CHARACTERBASE,-30.0,0.0,30.0,false,+转到屏幕右侧
+,PARAMETER,ParamAngleY,角度 Y,CAT_CHARACTERBASE,-30.0,0.0,30.0,false,+转到屏幕上侧
+,PARAMETER,ParamAngleZ,角度 Z,CAT_CHARACTERBASE,-30.0,0.0,30.0,false,+头歪向屏幕右侧
+,PARAMETER,ParamEyeLOpen,左眼　开闭,CAT_CHARACTERBASE,0.0,1.0,1.5,false,+张开眼睛
+,PARAMETER,ParamEyeLSmile,左眼　微笑,CAT_CHARACTERBASE,0.0,0.0,1.0,false,+微笑眼
+,PARAMETER,ParamEyeROpen,右眼   开闭,CAT_CHARACTERBASE,0.0,1.0,1.5,false,+张开眼睛
+,PARAMETER,ParamEyeRSmile,右眼　微笑,CAT_CHARACTERBASE,0.0,0.0,1.0,false,+微笑眼
+,PARAMETER,ParamEyeBallX,眼球 X,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,+看右边
+,PARAMETER,ParamEyeBallY,眼球 Y,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,+看上边
+,PARAMETER,ParamBrowLY,左眉   上下,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,+抬起眉毛
+,PARAMETER,ParamBrowRY,右眉　上下,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,+抬起眉毛
+,PARAMETER,ParamBrowLAngle,左眉　角度,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,-将眉毛转成愤怒
+,PARAMETER,ParamBrowRAngle,右眉　角度,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,-将眉毛转成愤怒
+,PARAMETER,ParamBrowLForm,左眉　変形,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,-将眉毛转成愤怒
+,PARAMETER,ParamBrowRForm,右眉　変形,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,-将眉毛转成愤怒
+,PARAMETER,CTB_MouthX,嘴X,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,+嘴变宽
+,PARAMETER,CTB_MouthY,嘴Y,CAT_CHARACTERBASE,0.0,0.0,1.0,false,+嘴张开
+,PARAMETER,ParamMouthForm,嘴部　变形,CAT_CHARACTERBASE,-1.0,0.0,1.0,false,"+嘴转笑, -嘴转哀"
+,PARAMETER,ParamBreath,呼吸,CAT_CHARACTERBASE,0.0,0.0,1.0,false,+吸气
+,PARAMETER,CAT_RightHandX,右手X,CAT_HAND,-30.0,0.0,30.0,false,+手移动向屏幕右侧
+,PARAMETER,CAT_RightHandY,右手Y,CAT_HAND,-30.0,30.0,30.0,false,+手移动向屏幕下侧
+,PARAMETER,CAT_RightHandUp,右手抬手,CAT_HAND,0.0,0.0,1.0,false,+手抬起
+,PARAMETER,CAT_LeftHandX,左手X,CAT_HAND,-30.0,0.0,30.0,false,+手移动向屏幕右侧
+,PARAMETER,CAT_LeftHandY,左手Y,CAT_HAND,-30.0,30.0,30.0,false,+手移动向屏幕下侧
+,PARAMETER,CAT_LeftHandUp,左手抬手,CAT_HAND,0.0,0.0,1.0,false,+手抬起

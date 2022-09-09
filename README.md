@@ -2,7 +2,7 @@
 # CatTuber_Cats
 这个库提供了必要的演示模型和资料供[CatTuber](https://store.steampowered.com/app/1337970)用户了解学习如何制作CatTuber模型。
 
-[English](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_EN.md)
+[English](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_EN.md)(Construction has not started)
 
 ## 模型许可
 此库中模型所有权属于CatTuber团队。

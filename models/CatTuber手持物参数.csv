@@ -1,0 +1,21 @@
+GUID,类型,ID,名称,组,最小值,默认值,最大值,循环,描述
+,PARAMETER_GROUP,ParamGroup_HandheldItemBase,手持物基础参数,,,,,,
+,PARAMETER_GROUP,ParamGroup_MouseButton,按键,,,,,,
+,PARAMETER_GROUP,ParamGroup_ThemeColor,颜色,,,,,,
+,PARAMETER,CAT_PositionX,位置X,ParamGroup_HandheldItemBase,-30.0,0.0,30.0,false,参考手模型的位置进行建模
+,PARAMETER,CAT_PositionY,位置Y,ParamGroup_HandheldItemBase,-30.0,0.0,30.0,false,参考手模型的位置进行建模
+,PARAMETER,CAT_HandID,手ID,ParamGroup_HandheldItemBase,0.0,0.0,1.0,false,0为右手，1为左手，二以上为其他手
+,PARAMETER,CAT_Button_0,按键0左键,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 左键亮起
+,PARAMETER,CAT_Button_1,按键1右键,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 右键亮起
+,PARAMETER,CAT_Button_2,按键2中键,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 中键亮起
+,PARAMETER,CAT_Button_3,按键3侧键1近手,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 侧键亮起
+,PARAMETER,CAT_Button_4,按键4侧键2远手,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 侧键亮起
+,PARAMETER,CAT_Button_5,按键5不明,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 按键亮起
+,PARAMETER,CAT_Button_6,按键6不明,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 按键亮起
+,PARAMETER,CAT_Button_7,按键7不明,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 按键亮起
+,PARAMETER,CAT_Wheel_Up,滚轮上,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 滚轮上滚
+,PARAMETER,CAT_Wheel_Down,滚轮下,ParamGroup_MouseButton,0.0,0.0,1.0,false,+: 滚轮下滚
+,PARAMETER,CAT_Pen_Pressure,笔压,ParamGroup_MouseButton,0.0,0.0,100.0,false,+: 笔压增加
+,PARAMETER,CAT_Theme_R,主题颜色R,ParamGroup_ThemeColor,0.0,0.0,255.0,false,+: 主题色红色通道数值增加
+,PARAMETER,CAT_Theme_G,主题颜色G,ParamGroup_ThemeColor,0.0,0.0,255.0,false,+: 主题色蓝色通道数值增加
+,PARAMETER,CAT_Theme_B,主题颜色B,ParamGroup_ThemeColor,0.0,0.0,255.0,false,+: 主题色绿色通道数值增加

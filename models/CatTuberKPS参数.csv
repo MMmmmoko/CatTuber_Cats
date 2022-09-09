@@ -1,0 +1,7 @@
+GUID,类型,ID,名称,组,最小值,默认值,最大值,循环,描述
+,PARAMETER_GROUP,KPS_PARAMS,KPS,,,,,,
+,PARAMETER,CAT_KPS,KPS,KPS_PARAMS,0.0,0.0,100.0,false,KPS整体数值
+,PARAMETER,CAT_KPS_NUM4,十位,KPS_PARAMS,0.0,0.0,10.0,false,_X.XX，CatTuber只将此参数值设为0~9的整数
+,PARAMETER,CAT_KPS_NUM3,个位,KPS_PARAMS,0.0,0.0,10.0,false,X_.XX，CatTuber只将此参数值设为0~9的整数
+,PARAMETER,CAT_KPS_NUM2,小数1位,KPS_PARAMS,0.0,0.0,10.0,false,XX._X，CatTuber只将此参数值设为0~9的整数
+,PARAMETER,CAT_KPS_NUM1,小数2位,KPS_PARAMS,0.0,0.0,10.0,false,XX.X_，CatTuber只将此参数值设为0~9的整数

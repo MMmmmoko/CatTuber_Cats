@@ -2,6 +2,7 @@
 This repository provides the necessary demo models and materials for  [CatTuber](https://store.steampowered.com/app/1337970) users to learn how to make CatTuber models.
 
 [简体中文](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README.md)
+[Español](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README_ES.md)
 
 ## Model License
 The ownership of the models in this repository belongs to the CatTuber team.
@@ -17,12 +18,12 @@ CatTuber users can combine parts from the demonstration model (such as head, han
 
 ## Docs
 We assume readers are familiar with Live2D modeling, if you don't know how to do Live2D modeling, please take the time to learn the basics of Live2D modeling first.
-* [How CatTuber displays models](docs/How%20CatTuber%20displays%20models.md)
-* [What is a "Model Standard"](docs/What%20is%20a%20Model%20Standard.md)
-* [How to Make a Character Model](docs/How%20to%20Make%20a%20Character%20Model.md)
-* [How to Make a Table Model](docs/How%20to%20Make%20a%20Table%20Model.md)
-* [How to Make a HandheldItem Model](docs/How%20to%20Make%20a%20HandheldItem%20Model.md)
-* [How to Make a KPS Model](docs/How%20to%20Make%20a%20KPS%20Model.md)
+* [How CatTuber displays models](docs/1%20How%20CatTuber%20displays%20models.md)
+* [What is a "Model Standard"](docs/2%20What%20is%20a%20Model%20Standard.md)
+* [How to Make a Character Model](docs/3%20How%20to%20Make%20a%20Character%20Model.md)
+* [How to Make a Table Model](docs/4%20How%20to%20Make%20a%20Table%20Model.md)
+* [How to Make a HandheldItem Model](docs/5%20How%20to%20Make%20a%20HandheldItem%20Model.md)
+* [How to Make a KPS Model](docs/6%20How%20to%20Make%20a%20KPS%20Model.md)
 
 ## Model contribution
 In the short term, CatTuber does not have Steam Workshop. If you have a model you want to share with others in CatTuber, please contact zh4017@foxmail.com.

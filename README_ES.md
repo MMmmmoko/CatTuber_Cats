@@ -1,5 +1,5 @@
 # CatTuber_Cats
-Esta repositorio proporciona modelos de demostración y materiales necesarios para que los usuarios de CatTuber aprendan cómo crear modelos de CatTuber.
+Este repositorio proporciona modelos de demostración y materiales necesarios para que los usuarios de CatTuber aprendan cómo crear modelos de CatTuber.
 
 ## Otros idiomas
 [简体中文](https://github.com/MMmmmoko/CatTuber_Cats/blob/main/README.md)
